@@ -1,0 +1,1 @@
+web: gunicorn djangoemailsender.wsgi --log-file -
